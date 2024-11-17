@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pubudu Senadheera</h1>
 <h3 align="center">Hi there! 👋 I'm a passionate developer who loves building efficient, scalable, and innovative solutions. With a strong focus on writing clean, maintainable code, I enjoy working on projects that challenge me to learn and grow. Let's collaborate and create something amazing! 🚀 Feel free to explore my repositories and connect with me. Happy coding! 💻✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pubudu12&label=Profile%20views&color=0e75b6&style=flat" alt="pubudu12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pubudu12" alt="pubudu12" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pubudu-senadheera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pubudu-senadheera" height="30" width="40" /></a>
@@ -17,9 +13,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pubudu12&show_icons=true&locale=en&layout=compact" alt="pubudu12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pubudu12&show_icons=true&locale=en" alt="pubudu12" /></p>
-
-
-<!---
-Pubudu12/Pubudu12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
