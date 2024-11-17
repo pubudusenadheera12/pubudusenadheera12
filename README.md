@@ -18,12 +18,3 @@ I am a Full Stack Engineer with more than 2 years of experience, successful at c
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VatanAgnihotri&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VatanAgnihotri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
----
-
-
-------
-
-
-Last Edited on: 03/05/2024
