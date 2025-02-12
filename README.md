@@ -1,9 +1,15 @@
 
 # 💫 About Me:
 
-I am a Full Stack Engineer with more than 2 years of experience, successful at completing simultaneous development and update projects. Decisive leader and reliable team builder with a results-focused and motivated approach. Develops software solutions for a variety of client needs and experimentation platforms.
+I am a Full Stack Engineer with expertise in the MERN stack, PHP, and Laravel. With over 3.5 years of experience, I have successfully delivered high-quality software solutions across various domains. I am a results-driven team player, always eager to learn and implement cutting-edge technologies.
 
-🔭 **I’m currently working on:**  <br>Improving the performance of serverless microservices architecture deployed on AWS Lambda.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>🌱 **I’m currently learning:**  <br>GraphQL and NextJS.<br><br>💬 **Ask me about**  <br>JavaScript, TypeScript, React, Angular, Node.js, Express, MongoDB, Elastic Search, Messaging Systems, AWS, System Designs, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love playing video games.
+🔭 I’m currently working on:Improving the performance of Laravel-based applications and optimizing MERN stack development workflows.
+
+👯 I’m looking to collaborate on:MERN stack, PHP/Laravel, and GraphQL projects.
+
+🌱 I’m currently learning:GraphQL, Next.js, and advanced Laravel optimizations.
+
+💬 Ask me about:JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, PHP, Laravel, REST API development, GraphQL integration, MySQL, Strapi CMS, and CICD pipelines.
 
 
 ## 🌐 Socials:
