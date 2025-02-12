@@ -18,7 +18,7 @@ I am a Full Stack Engineer with expertise in the MERN stack, PHP, and Laravel. W
 
 ##### Languages I use
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
@@ -26,6 +26,7 @@ I am a Full Stack Engineer with expertise in the MERN stack, PHP, and Laravel. W
 
 ##### Some of the technologies I have worked with
 
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
