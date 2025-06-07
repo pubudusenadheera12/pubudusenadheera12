@@ -37,3 +37,6 @@ I am a Full Stack Engineer with expertise in the MERN stack, PHP, and Laravel. W
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&logo=Amazon-Web-Service)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 <br/>
+
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pubudusenadheera12&theme=rogue&custom_title=Pubudu%20Senadheera%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
