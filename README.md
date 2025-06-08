@@ -38,5 +38,6 @@ I am a Full Stack Engineer with expertise in the MERN stack, PHP, and Laravel. W
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 <br/>
 
+<br/><br/>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pubudusenadheera12&theme=rogue&custom_title=Pubudu%20Senadheera%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
